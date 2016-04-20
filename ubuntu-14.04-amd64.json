@@ -234,7 +234,9 @@
         "scripts/ubuntu/sudoers.sh",
         "scripts/ubuntu/vagrant.sh",
         "scripts/common/vmtools.sh",
+        "scripts/ubuntu/cloud-init.sh",
         "scripts/ubuntu/cleanup.sh",
+        "scripts/ubuntu/cleanup-cloud.sh",
         "scripts/common/minimize.sh"
       ],
       "type": "shell"

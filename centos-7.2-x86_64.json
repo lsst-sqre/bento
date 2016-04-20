@@ -148,7 +148,9 @@
         "scripts/centos/networking.sh",
         "scripts/common/vagrant.sh",
         "scripts/common/vmtools.sh",
+        "scripts/centos/cloud-init.sh",
         "scripts/centos/cleanup.sh",
+        "scripts/centos/cleanup-cloud.sh",
         "scripts/common/minimize.sh"
       ],
       "type": "shell"
